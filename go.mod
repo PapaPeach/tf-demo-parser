@@ -1,4 +1,4 @@
-module tf-demo-parser
+module github.com/papapeach/tf-demo-parser
 
 go 1.25.3
 
